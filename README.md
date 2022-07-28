@@ -1,2 +1,2 @@
 # algo-design
-search techniques and different algorithm
+search techniques and practice algorithms
